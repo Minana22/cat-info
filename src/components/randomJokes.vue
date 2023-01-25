@@ -45,7 +45,7 @@ export default {
   font-weight: 600;
 }
 .jokes {
-  background-color: #d9afd9;
+  background-color: #740698;
   background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
 }
 .btn {
